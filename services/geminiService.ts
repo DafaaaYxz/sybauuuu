@@ -2,7 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 import { Message } from '../types';
 
 // DIRECT API KEY USAGE TO PREVENT "PROCESS NOT DEFINED" ERRORS
-const API_KEY = 'AIzaSyBanf7m4KmtrxZoF0N4yXaM6oX3dgHmWQo';
+const API_KEY = 'AIzaSyDUfSzodJ6VbhF542QyQo90ZrGP0tWdWqA';
 
 const ai = new GoogleGenAI({ apiKey: API_KEY });
 
